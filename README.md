@@ -22,3 +22,8 @@ This project consist of 3 parts as below
 * With logistic regression results, we again encountered same z-score as well as p-value of 0.190, corresponding two-tailed case
 * By further adding geographic location of the users, we tried to find if any specific country had an impact on conversion
 * The result gave a similar outlook and suggested that the countries have no impact on the conversion rate.
+
+
+### Used Tools
+Jupyter notebook
+Python and it's libraries (pandas, numpy, matplotlib)
